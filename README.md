@@ -3,7 +3,7 @@
 An AI that plays flappy bird! Using the NEAT (Neuro Evolution of Augmenting Topologies) python module.
 
 # About NEAT
-Neuroevolution, i.e. evolving arti?cial neural networks with genetic algorithms, has been highly effective in reinforcement learning tasks, particularly those with hidden state information.
+Neuroevolution, i.e. evolving artificial neural networks with genetic algorithms, has been highly effective in reinforcement learning tasks, particularly those with hidden state information.
 
 # Instructions
 Simply run *flappy_bird_neat.py* and watch an AI start training itself to play the game of flappy bird!
