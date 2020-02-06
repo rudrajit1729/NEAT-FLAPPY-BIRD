@@ -13,6 +13,8 @@ A research paper by Kenneth O. Stanley and Risto Miikkulainen is attached for re
 
 # Run in Gitpod
 
-You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for GitHub:
+You can also run NEAT-FLAPPY-BIRD in Gitpod, a free online dev environment for GitHub:
+
+Click on the link and watch the AI flappy bird in action.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rudrajit1729/NEAT-FLAPPY-BIRD/blob/master/flappy_bird_neat.py)
