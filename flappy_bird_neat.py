@@ -403,7 +403,7 @@ def eval_genomes(genomes, config):
 
         # break if score gets large enough
         # comment out this stuff if you want to train everytime
-        if score >30:
+        if score >500:
             pickle.dump(nets[0],open("best.pickle", "wb"))
             break
 
