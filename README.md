@@ -1,6 +1,3 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rudrajit1729/NEAT-FLAPPY-BIRD) 
-
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rudrajit1729/NEAT-FLAPPY-BIRD) 
 
 # NEAT-FLAPPY-BIRD
 An AI that plays flappy bird! Using the NEAT (Neuro Evolution of Augmenting Topologies) python module.
